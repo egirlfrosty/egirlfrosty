@@ -1,4 +1,4 @@
-### hi
+### hello world or smth idk
 Hi, I'm [frosty](https://youtube.com/frostyhq) 👋
 
 ![age](https://img.shields.io/badge/age-16-blue)
