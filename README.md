@@ -8,5 +8,5 @@ Hi, I'm [frosty](https://youtube.com/frostyhq) 👋
 
 [![egirlfrostys's github stats](https://github-readme-stats.vercel.app/api?username=egirlfrosty&show_icons=true&theme=dark)](https://github.com/egirlfrosty)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egirlfrosty)](https://github.com/egirlfrosty)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egirlfrosty&theme=dark)](https://github.com/egirlfrosty)
 
