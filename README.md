@@ -2,7 +2,7 @@
 Hi, I'm [frosty](https://youtube.com/frostyhq) 👋
 
 ![age](https://img.shields.io/badge/age-16-blue)
-![focus](https://img.shields.io/badge/focus-Tecknix Client-brightgreen)
+![focus](https://img.shields.io/badge/focus-TecknixClient-brightgreen)
 ![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <br />
