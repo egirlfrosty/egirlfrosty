@@ -6,5 +6,5 @@ Hi, I'm [frosty](https://youtube.com/frostyhq) 👋
 
 <br />
 
-[![frostys's github stats](https://github-readme-stats.vercel.app/api?username=egirlfrosty&show_icons=true)](https://github.com/egirlfrosty)
+[![egirlfrostys's github stats](https://github-readme-stats.vercel.app/api?username=egirlfrosty&show_icons=true)](https://github.com/egirlfrosty)
 
