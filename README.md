@@ -4,7 +4,7 @@
 ![focus](https://img.shields.io/badge/focus-TecknixClient-brightgreen)
 
 <br/>
-Heyo i'm frosty I am a trans girl from canada that likes to program. I am a java developer experienced in Minecraft development client and server side. I am familiar with Mongodb, Mixin and java websockets.
+Heyo i'm frosty I am a trans girl from canada that likes to program. I am a java developer experienced in Minecraft development client and server side. I am familiar with OpenGL/LWJGL, Mongodb, Mixin and java websockets.
 Most of my projects are closed source you can ask me about them on discord if you wish (frosty#9999).
 
 <br/> Things I use and or am notably good at
