@@ -2,7 +2,6 @@
 
 ![age](https://img.shields.io/badge/age-16-blue)
 ![focus](https://img.shields.io/badge/focus-TecknixClient-brightgreen)
-![](https://komarev.com/ghpvc/?username=egirlfrosty&color=blueviolet)
 
 <br/>
 Heyo i'm frosty I am a trans girl from canada that likes to program. I am a java developer experienced in Minecraft development client and server side. I am familiar with OpenGL/LWJGL, Mongodb, Mixin and java websockets.
