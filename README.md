@@ -6,8 +6,9 @@
 <br/>
 Heyo i'm frosty I am a trans girl from canada that likes to program. I am a java developer experienced in Minecraft development client and server side. I am familiar with OpenGL/LWJGL, Mongodb, Mixin and java websockets.
 Most of my projects are closed source but on the occasion I will open source something!
-
+<br/>
 My website: https://tecknix.com
+
 My discord: https://discord.tecknix.com
 
 Some of my open source projects: https://github.com/TecknixClient
