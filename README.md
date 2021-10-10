@@ -9,22 +9,17 @@
  *    ♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥
  */
  ```
-
-![age](https://img.shields.io/badge/age-16-blue)
-![focus](https://img.shields.io/badge/focus-TecknixClient-brightgreen)
-
 <br/>
-Heyo i'm frosty I am a trans girl from canada that likes to program. I am a java developer experienced in Minecraft development client and server side. I am familiar with OpenGL/LWJGL, Mongodb, Mixin and java websockets.
-Most of my projects are closed source but on the occasion I will open source something!
+Hello, Welcome to my Github profile. Here you will find some of my lower effort projects usually just made for fun. Most if not all will be java. I have been programming for quite a few years now, Most of my experience has come from client and server side developement for Minecraft. Most of my work is front end and or visual but I am also very capible of backend and server sided programming. I enjoy using OpenGL, MongoDB, Spongepowered Mixin, Java Websocket and Electron JS. Any code found on my github profile is likely old or low effort code.
 <br/>
+
 My website: https://tecknix.com
-
 My discord: https://discord.tecknix.com
 
 Some of my open source projects: https://github.com/TecknixClient
 
 
-<br/> Things I use and or am notably good at
+<br/> Things I use and or am notably good at.
  
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
