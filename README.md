@@ -32,7 +32,7 @@ My website: https://tecknix.com
 My discord: https://discord.tecknix.com
 
 Some of my open source projects: https://github.com/TecknixClient
-
+I now have a website for some reason http://egirl.codes/
 
 <br/> Things I use and or am notably good at.
  
